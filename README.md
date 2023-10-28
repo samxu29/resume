@@ -41,5 +41,6 @@
 
 
 ## Find My Resume [here](https://github.com/samxu29/samxu29/blob/main/shengkaixu_2023resume.pdf)
+![alt text](https://github.com/samxu29/samxu29/blob/main/pdf2png/shengkaixu_2023resume.png)
 
 
