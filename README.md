@@ -8,7 +8,7 @@
 💡 Always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shengkai-xu-sam/)](https://www.linkedin.com/in/shengkai-xu-sam/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shengkai.x.sam@gmail.com)](mailto:shengkai.x.sam@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-shengkai.x.sam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shengkai.x.sam@gmail.com)](mailto:shengkai.x.sam@gmail.com)
 
 ## ⚡ Technologies
 
