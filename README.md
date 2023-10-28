@@ -1,37 +1,43 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+- 🧙 My name is Shengkai Xu, and my friends call me Sam Shoe.
+- 🏫 I am a computer engineering graduate student from [The Unversity of North Carolina at Charlotte](https://charlotte.edu/) 
+- 📜 I am also an active member of [IEEE Eta Kappa Nu](https://hkn.ieee.org/).
+- 🧗 I am a rock climber.
+- 🏎 I am a race car driver.
+- 🧑‍💻 I am a hardware engineer by day & an AI/DL enthusiast by night.
 
-🧙 I am Shengkai Xu, my friends call me Sam Shoe.
-🏫 I am a computer engineering graduate student from [The Unversity of North Carolina at Charlotte](https://charlotte.edu/) and an active member of [IEEE Eta Kappa Nu](https://hkn.ieee.org/).
-🧗 I am a rock climber.
-🏎 I am a race car driver.
-🧑‍💻 I am a hardware engineer by day & an AI/DL enthusiast by night.
 💡 Always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-shengkai-xu-sam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shengkai-xu-sam/)](https://www.linkedin.com/in/shengkai-xu-sam/)
+[![Linkedin Badge](https://img.shields.io/badge/-shengkai--xu--sam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shengkai-xu-sam/)](https://www.linkedin.com/in/shengkai-xu-sam/)
 [![Gmail Badge](https://img.shields.io/badge/-shengkai.x.sam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shengkai.x.sam@gmail.com)](mailto:shengkai.x.sam@gmail.com)
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=ffffff)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
-![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=c)
-![ESP-IDF](https://img.shields.io/badge/-ESP%20IDF-563D7C?style=flat-square&logo=espressif)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square&logo=c&logoColor=ffffff)
+![Micro Python](https://img.shields.io/badge/-Micro%20CPython-2B2728?style=flat-square&logo=micropython&logoColor=ffffff)
+![ESP-IDF](https://img.shields.io/badge/-ESP%20IDF-E7352C?style=flat-square&logo=espressif&logoColor=ffffff)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=ffffff)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=ffffff)
 
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=ffffff)
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
 
 ## Publication
-![Robotic Path Planning](https://img.shields.io/badge/IEEE%20SoutheastCon-Path%20Planning%20for%20Robotic%20Delivery%20Systems-blue?logo=ieee)
+
 ![Charlotte Area Traffic Light Datasets](https://img.shields.io/badge/IEEE%20HONET-Charlotte%20Area%20Traffic%20Light%20Datasets%20(In%20press)-blue?logo=ieee)
 
-## You can find my resume [here](https://github.com/samxu29/samxu29/blob/main/shengkaixu_2023resume.pdf)
+[![Path Planning for Robotic Delivery Systems](https://img.shields.io/badge/IEEE%20SoutheastCon-Path%20Planning%20for%20Robotic%20Delivery%20Systems-blue?logo=ieee)]([https://www.ieee.org](https://ieeexplore.ieee.org/document/9764058))
+
+## Find My Resume [here](https://github.com/samxu29/samxu29/blob/main/shengkaixu_2023resume.pdf)
+
+
