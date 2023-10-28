@@ -34,9 +34,11 @@
 
 ## Publication
 
-![Charlotte Area Traffic Light Datasets](https://img.shields.io/badge/IEEE%20HONET-Charlotte%20Area%20Traffic%20Light%20Datasets%20(In%20press)-blue?logo=ieee)
+[![Path Planning for Robotic Delivery Systems](https://img.shields.io/badge/IEEE%20SoutheastCon-Path%20Planning%20for%20Robotic%20Delivery%20Systems-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9764058)
 
-[![Path Planning for Robotic Delivery Systems](https://img.shields.io/badge/IEEE%20SoutheastCon-Path%20Planning%20for%20Robotic%20Delivery%20Systems-blue?logo=ieee)]([https://www.ieee.org](https://ieeexplore.ieee.org/document/9764058))
+
+[![Charlotte Area Traffic Light Datasets](https://img.shields.io/badge/IEEE%20HONET-Charlotte%20Area%20Traffic%20Light%20Datasets%20(In%20press)-blue?logo=ieee)](https://honet-ict.org/)
+
 
 ## Find My Resume [here](https://github.com/samxu29/samxu29/blob/main/shengkaixu_2023resume.pdf)
 
