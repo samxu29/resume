@@ -3,7 +3,7 @@
 - 🏫 I am a computer engineering graduate student from [The Unversity of North Carolina at Charlotte](https://ece.charlotte.edu/) 
 - 📝 I am also an active member of [IEEE Eta Kappa Nu](https://hkn.ieee.org/).
 - 🧗 I am a rock climber.
-- 🏎 I am a race car driver.
+- 🏎 I am a racer.
 - 🧑‍💻 I work on hardware by day & study AI/DL by night.
 
 ## 🫵 Always open to collaborating on projects and innovative ideas. 
