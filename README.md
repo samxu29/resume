@@ -12,6 +12,8 @@ Feel free to connect with me here:
 [![Gmail Badge](https://img.shields.io/badge/-shengkai.x.sam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shengkai.x.sam@gmail.com)](mailto:shengkai.x.sam@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-shengkai--xu--sam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shengkai-xu-sam/)](https://www.linkedin.com/in/shengkai-xu-sam/)
 
+[![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97-%20Huggingface-yellow.svg)](https://huggingface.co/samxu29)
+
 
 ## 🦾 Technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -32,6 +34,10 @@ Feel free to connect with me here:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
+
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=ffffff)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 ## 📰 Publication
 
