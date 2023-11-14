@@ -1,0 +1,263 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper,bottom = 0.6in,left = 0.75in,right = 0.75in,top = 1cm]{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{wrapfig}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage{enumitem}
+\usepackage{palatino}
+\usepackage{tabularx}
+\fontfamily{SansSerif}
+\usepackage{fontawesome5}
+\usepackage[hidelinks]{hyperref}
+\usepackage{textcomp}
+
+\usepackage{verbatim}
+\usepackage{makecell}
+\usepackage{pbox}
+
+%for color
+\usepackage[usenames, dvipsnames]{color}
+\definecolor{myblue}{RGB}{10,0,254}
+
+% Adjusting the margins
+\enlargethispage{2\baselineskip} % you can adjust the number based on your content's fit in the page
+
+\newcommand{\xfilll}[2][1ex]{
+\dimen0=#2\advance\dimen0 by #1
+\leaders\hrule height \dimen0 depth -#1\hfill}
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}
+\renewcommand\labelitemi{\raisebox{0.4ex}{\tiny$\bullet$}}
+\renewcommand{\labelitemii}{$\cdot$}
+\pagenumbering{gobble}
+
+
+\usepackage[T1]{fontenc}
+\usepackage
+%[ansinew]
+[utf8]
+{inputenc}
+
+\usepackage{color}
+\definecolor{mygrey}{gray}{0.99}
+\textheight=10in
+\raggedbottom
+
+\setlength{\tabcolsep}{0in}
+\newcommand{\isep}{-2 pt}
+\newcommand{\lsep}{-0.5cm}
+\newcommand{\psep}{-0.6cm}
+\renewcommand{\labelitemii}{$\circ$}
+
+\pagestyle{empty}
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item[{\color[RGB]{10,0,254}$\bullet$}] #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.99\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{8.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
+
+
+\begin{document}
+\begin{table}
+    \begin{center}
+    {\Huge \scshape Shengkai (Sam) Xu} \\ \vspace{1pt}
+    % SOFTWARE ENGINEER \\ \vspace{1pt}
+    \small \raisebox{-0.1\height}\faPhone\ +1-734-371-6398 ~ \href{mailto:shengkai.x.sam@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{shengkai.x.sam@gmail.com}} ~ 
+    \href{https://linkedin.com/in/shengkai-xu-sam}{\raisebox{-0.2\height}\faLinkedin\ \underline{shengkai-xu-sam}}  ~
+    \href{https://github.com/samxu29}{\raisebox{-0.2\height}\faGithub\ \underline{samxu29}} ~
+    \vspace{-8pt}
+\end{center}
+\end{table}    
+
+% \fi 
+\vspace{-8pt}
+
+%%% SHORT SUMMARY %%%
+\section*{{ \LARGE \color{myblue} Summary}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+As an international student with a strong engineering background and a passion for innovative technologies, I strive to make a positive impact by driving change through my work.
+\vspace{-8pt}
+
+%%%% EDUCATION %%%%
+\section*{{\LARGE \color{myblue}Education}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+
+%\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+\textbf{\large M.Sc. Computer Engineering}| \normalfont{University of North Carolina at Charlotte} \hfill { \small Aug 2022 - Aug 2024}
+\\[-0.4cm]
+% \emph{Awarded Letter of Recommendation for excellent performance during the internship period } 
+\\[-0.6cm]	
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Research in Deep Learning and Computer Vision on Edge Devices/Servers
+        \end{itemize} 
+\textbf{\large B.Sc. Computer Engineering}| \normalfont{University of North Carolina at Charlotte} \hfill { \small Jan 2018 - Dec 2022}
+\\[-0.4cm]
+% \emph{Awarded Letter of Recommendation for excellent performance during the internship period } 
+\\[-0.6cm]	
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Concentration in Machine Learning
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Minor in Mathematics
+        \end{itemize} 
+\vspace{-15pt}
+
+% %%% COURSES %%%
+
+% \section*{{\LARGE \color{myblue}Key Courses Undertaken}\xfilll[0pt]{0.5pt}}
+% \vspace{-15pt}
+% \vspace{1.5mm}
+
+% \textbf{\large Machine Learning \& Artificial intelligence}
+% \\[-0.6cm]
+% \begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+% 	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Intro Of Machine Learning 
+% 	\end{itemize}
+% \textbf{\large Computer Science}
+% \\[-0.6cm]
+% \begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+% 	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Structured Programming Approach, Data Structures and Algorithms, Operating Systems, Computer Networks
+% 	\end{itemize}
+% \vspace{-15pt}
+
+
+%%%% SCHOLASTIC ACHIEVEMENTS %%%%
+% \section*{{\LARGE \color{myblue}Scholastic Achievements}\xfilll[0pt]{0.5pt}}
+% \vspace{-15pt}
+% \vspace{1.5mm}
+
+% \begin{itemize}[itemsep = -0.70 mm, leftmargin=*]
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Pursuing a \textbf{Minor} in Industrial Design Center(IDC)                         
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Ranked in the top \textbf{3 \%} among \textbf{0.2 million} candidates in JEE Advanced 2017 \hfill {\ \small [April'17]}
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Ranked in the top \textbf{1 \%} among \textbf{1.5 million} candidates in JEE Mains 2017 \hfill {\ \small [June'17]}
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Secured the \textbf{1st position} in intra-state Talent Search Contest among \textbf{0.1 million} students conducted by \textbf{Navodaya Educational Society And Welfare Committee, Bhopal}\hfill {\ \small [July'15]} 
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Awarded \textbf{SBI Scholar} Fellowship which is given to meritorious children of SBI staff \hfill {\ \small [July'17]}
+
+% \end{itemize}
+% \vspace{-15pt}
+% \vspace{-7pt}
+
+%%%% PROFESSIONAL EXPERIENCE %%%%
+\section*{{\LARGE \color{myblue}Experience}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+
+%\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+\textbf{\large Research Assistant}| \normalfont{TeCSAR} \hfill { \small Aug 2022 - Jan 2023}
+\\[-0.4cm]
+% \emph{Awarded Letter of Recommendation for excellent performance during the internship period } 
+\\[-0.6cm]	
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Researched and developed an AI pipeline  for  civilian security and public safety systems, with a specific focus on video processing and anomaly action detection
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent \textit{TeCSAR (Transformative Computer Systems and Architecture Research Lab) is a UNC Charlotte research lab led by Dr. Hamed Tabkhi. The lab uses machine learning, deep learning, and data analytics to improve community safety, health, and well-being.}
+        \end{itemize} 
+\textbf{\large Embedded Firmware Engineer}| \normalfont{Oxit} \hfill { \small May 2021 - May 2023}
+\\[-0.4cm]
+% \emph{Awarded Letter of Recommendation for excellent performance during the internship period } 
+\\[-0.6cm]	
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Responsible for research and development initiatives aimed at crafting innovative tools to enhance project efficiency. Proficiently designed and implemented IoT automation pipelines within both AWS and Google Cloud environments.
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent One of my major contributions was designing module libraries that streamlined embedded applications for different chip-sets
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent \textit{Oxit is an engineering company specializing in low-power, long-range RF communication technology for IoT applications, including LoRa.}
+        \end{itemize} 
+\vspace{-15pt}
+
+%%% SKILLS %%%
+\section*{{\LARGE \color{myblue} Skills}\xfilll[0pt]{0.5pt}}
+
+\vspace{-22pt}
+\setlength{\tabcolsep}{9pt}
+\begin{table}[h]
+
+\begin{tabular}{lllll}
+
+\textbf{Programming} & Python, SQL, Embedded C, C++, VHDL \\ 
+\textbf{ML/AI} & Pytorch, TensorFlow, Keras, Panda, scikit-learn \\ 
+\textbf{Embedded System} & ESP32, STM32, Arduino, RaspberryPi \\ 
+\textbf{CAD} & SOLIDWORKS, EAGLE, KiCAD \\
+\textbf{Cloud Service} & AWS, Google Cloud, OpenAI, RunPod \\ 
+\textbf{Misc} & Git, GitHub, Linux, Vivado, LaTex
+
+\end{tabular}
+\end{table}
+% \fi 
+
+\vspace{-20pt}
+% \fi 
+
+%%% PROJECTS %%%
+\section*{{ \LARGE \color{myblue} Projects}\xfilll[0pt]{0.5pt}}
+\vspace{-13pt}
+\vspace{1.5mm}
+
+ \textbf{\large AI-Powered Discord ChatBot}| \normalfont{PyTorch, Huggingface.co, LangChain, PrivateGPT} 
+ \hfill \emph{Personal Project}
+\\[-0.6cm]
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Developed an innovative Discord assistant bot, utilizing LangChain and Hugging Face's large language models to enable sophisticated user interactions. Demonstrated expertise in AI and chatbot technology to enhance user engagement and experience in Discord communities.
+	\end{itemize} 	
+\textbf{\large Mask Detector}| \normalfont{PyTorch, Kaggle, YOLO, OpenCV} 
+\hfill \emph{University Course Project}
+\\[-0.6cm]
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Implemented YOLOv4/5 models to analyze mask usage in crowds from video footage, enabling statistical insights on mask-wearing in the surrounding area.
+	\end{itemize}
+\textbf{\large Pet Detector}| \normalfont{Keras, Embedded C, Nvidia Jetson Nano, ESP32, TensorFlow Lite, } 
+\hfill \emph{Oxit Tech Demo}
+\\[-0.6cm]
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Utilized using transfer learning with FOMO, a lightweight version of MobileNetv2, for edge devices such as Nvidia Jetson Nano and ESP32 embedded systems.
+	\end{itemize} 	
+  \textbf{\large Student Formula Race Car}| \normalfont{Electronic, CAD, Hardware} 
+ \hfill \emph{University Club Project}
+\\[-0.6cm]
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+        \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Contributed to the electrical power and wiring department of the Student Formula Racing club, assisting the team in their participation in the Formula Student engineering competition.
+	\end{itemize} 	
+\vspace{-15pt}
+
+%%% PUBLICATIONS %%%
+\section*{{\LARGE \color{myblue}Publications}\xfilll[0pt]{0.5pt}}
+\vspace{-8pt}
+\textbf{\large{Path Planning for Robotic Delivery Systems}} \hfill {\ \small Mar/April 2022}
+\\[0.05cm]
+\emph{IEEE SoutheastCon 2022} \hfill{\small DOI: 10.1109/SoutheastCon48659.2022.9764058}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent The study uses a modified Dijkstra's algorithm and a directed graph, based on GPS locations from Open Street Map, for efficient path planning across a university campus.
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent A node-abstraction method compresses the graph to reduce time complexity, significantly improving computation time in simulation results.
+\end{itemize}
+\textbf{\large{Charlotte Area Traffic Light Dataset}} \hfill{\small In Press}
+\\[0.05cm]
+\emph{IEEE HONET 2023} 
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent A new dataset with over 4,000 dashcam images from Charlotte, NC, includes diverse weather and lighting conditions to benchmark traffic light detection models.
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent The dataset reveals performance variations in models like YOLOv5 under different conditions, emphasizing region-specific factors in traffic light perception.
+\end{itemize}
+
+
+
+
+%%% MISC %%%
+\section*{{\LARGE \color{myblue}Extracurricular \& Affiliation}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent IEEE-HKN (ETA KAPPA NU)
+\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent UNC Charlotte Engineering Leadership Academy
+\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent UNC Charlotte Area Robotic Team
+\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent UNC Charlotte Formula SAE
+\end{itemize}
+
+\end{document}
