@@ -46,7 +46,7 @@ Feel free to connect with me here:
 
 [![Charlotte Area Traffic Light Datasets](https://img.shields.io/badge/IEEE%20HONET-Charlotte%20Area%20Traffic%20Light%20Datasets%20(In%20press)-blue?logo=ieee)](https://honet-ict.org/)
 
-## 🚀 Find My Resume [HERE](https://github.com/samxu29/samxu29/blob/main/shengkaixu_2023resume.pdf) or 👇
+## 🚀 Find My CV & Resume 👇
 
 <p float="left">
   <img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023cv.pdf_1.png" width="200" />
