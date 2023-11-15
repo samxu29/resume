@@ -49,12 +49,12 @@ Feel free to connect with me here:
 ## 🚀 Find My Resume [HERE](https://github.com/samxu29/samxu29/blob/main/shengkaixu_2023resume.pdf) or 👇
 
 <p float="left">
-  <img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023cv.pdf_1.png" width="300" />
-  <img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023cv.pdf_2.png" width="300" />
-  <img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023cv.pdf_3.png" width="300" />
+  <img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023cv.pdf_1.png" width="200" />
+  <img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023cv.pdf_2.png" width="200" />
+  <img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023cv.pdf_3.png" width="200" />
   
 </p>
 
-<img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023resume.pdf_1.png" width="500">
+<img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023resume.pdf_1.png" width="300">
 
 
