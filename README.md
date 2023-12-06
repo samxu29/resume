@@ -1,4 +1,4 @@
-## 👋 Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hello there! 
 - 🧙 My name is Shengkai Xu, and my friends call me Sam Shoe.
 - 🏫 I am a computer engineering graduate student from [The Unversity of North Carolina at Charlotte](https://ece.charlotte.edu/) 
 - 📝 I am also an active member of [IEEE Eta Kappa Nu](https://hkn.ieee.org/).
