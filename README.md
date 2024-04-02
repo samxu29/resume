@@ -48,8 +48,6 @@ Feel free to connect with me here:
 
 ## 🚀 Find My CV & Resume 👇
 
-<img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023resume.pdf_1.png" width="300">
-
 <p float="left"> 
   <a href="https://github.com/samxu29/samxu29/blob/main/shengkaixu_2024cv.pdf" target="_blank"> 
     <img src="https://github.com/samxu29/samxu29/blob/main/img/shengkaixu_2023cv.pdf_1.png" width="200" /> 
