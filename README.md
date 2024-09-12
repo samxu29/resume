@@ -6,6 +6,15 @@
 - 🏎 I am a biker & racer.
 - 🧑‍💻 I study AI by day & work on hardware by night.
 
+
+## 📰 Publication
+
+[![Path Planning for Robotic Delivery Systems](https://img.shields.io/badge/IEEE%20SoutheastCon-Path%20Planning%20for%20Robotic%20Delivery%20Systems-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9764058)
+
+
+[![Charlotte Area Traffic Light Datasets](https://img.shields.io/badge/IEEE%20HONET-Charlotte%20Area%20Traffic%20Light%20Datasets%20-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10374673)
+
+
 ## 🫵 Always open to collaborating on projects and innovative ideas. 
 Feel free to connect with me here:
 
@@ -39,12 +48,6 @@ Feel free to connect with me here:
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
-## 📰 Publication
-
-[![Path Planning for Robotic Delivery Systems](https://img.shields.io/badge/IEEE%20SoutheastCon-Path%20Planning%20for%20Robotic%20Delivery%20Systems-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9764058)
-
-
-[![Charlotte Area Traffic Light Datasets](https://img.shields.io/badge/IEEE%20HONET-Charlotte%20Area%20Traffic%20Light%20Datasets%20-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10374673)
 
 ## 🚀 Find My CV & Resume 👇
 
