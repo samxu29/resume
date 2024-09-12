@@ -1,10 +1,10 @@
 ## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> Hello there! 
 - 🧙 My name is Shengkai Xu, and my friends call me Sam Shoe.
-- 🏫 I am a computer engineering graduate student from [The Unversity of North Carolina at Charlotte](https://ece.charlotte.edu/) 
+- 🏫 I am a PhD student from [The Unversity of North Carolina at Charlotte, College of Computing and Informatics](https://cci.charlotte.edu/) 
 - 📝 I am also an active member of [IEEE Eta Kappa Nu](https://hkn.ieee.org/).
 - 🧗 I am a rock climber.
-- 🏎 I am a racer.
-- 🧑‍💻 I work on hardware by day & study AI/DL by night.
+- 🏎 I am a biker & racer.
+- 🧑‍💻 I study AI by day & work on hardware by night.
 
 ## 🫵 Always open to collaborating on projects and innovative ideas. 
 Feel free to connect with me here:
@@ -44,7 +44,7 @@ Feel free to connect with me here:
 [![Path Planning for Robotic Delivery Systems](https://img.shields.io/badge/IEEE%20SoutheastCon-Path%20Planning%20for%20Robotic%20Delivery%20Systems-blue?logo=ieee)](https://ieeexplore.ieee.org/document/9764058)
 
 
-[![Charlotte Area Traffic Light Datasets](https://img.shields.io/badge/IEEE%20HONET-Charlotte%20Area%20Traffic%20Light%20Datasets%20(In%20press)-blue?logo=ieee)](https://honet-ict.org/)
+[![Charlotte Area Traffic Light Datasets](https://img.shields.io/badge/IEEE%20HONET-Charlotte%20Area%20Traffic%20Light%20Datasets%20-blue?logo=ieee)](https://ieeexplore.ieee.org/document/10374673)
 
 ## 🚀 Find My CV & Resume 👇
 
